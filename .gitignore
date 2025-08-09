@@ -5,3 +5,4 @@ dist
 tests/e2e/screenshots
 node_modules
 .idea
+.vscode
